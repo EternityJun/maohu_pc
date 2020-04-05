@@ -1,0 +1,11 @@
+.el-pagination {
+    text-align: right;
+    margin: 20px 0;
+  }
+  .link_color {
+    color: rgb(58, 142, 230);
+    cursor: pointer;
+  }
+  .el-dialog__footer{
+    text-align: center
+  }

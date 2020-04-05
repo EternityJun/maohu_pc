@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0AABB6;}
+	.st1{fill:#335872;}
+	.st2{fill:#FF653D;}
+	.st3{fill:#F7AC16;}
+	.st4{fill:#EED526;}
+	.st5{fill:#ADD41C;}
+	.st6{fill:#34B66D;}
+	.st7{fill:none;stroke:#0AABB6;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#335872;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#FF653D;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#F7AC16;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#EED526;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#ADD41C;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#34B66D;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#000000;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#000000;stroke-width:9;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#000000;stroke-width:9;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{fill:#4B4B4B;}
+</style>
+<g>
+	<ellipse class="st5" cx="99.9" cy="74.7" rx="3.3" ry="3.6"/>
+	<ellipse class="st5" cx="99.9" cy="125.3" rx="3.3" ry="3.6"/>
+	<path class="st5" d="M75.2,10.8H8c-4.4,0-8,3.6-8,8v162.5c0,4.4,3.6,8,8,8h67.2c4.4,0,8-3.6,8-8V18.8
+		C83.2,14.4,79.6,10.8,75.2,10.8z M74.2,180.3H9V19.8h65.2V180.3z"/>
+	<path class="st5" d="M192,10.8h-67.2c-4.4,0-8,3.6-8,8v162.5c0,4.4,3.6,8,8,8H192c4.4,0,8-3.6,8-8V18.8
+		C200,14.4,196.4,10.8,192,10.8z M191,180.3h-65.2V19.8H191V180.3z"/>
+	<path class="st5" d="M158.4,137.5c12.9,0,23.3-16.8,23.3-37.5c0-20.7-10.4-37.5-23.3-37.5s-23.3,16.8-23.3,37.5
+		C135.1,120.7,145.5,137.5,158.4,137.5z M158.4,69.2c7.9,0,16.7,12.7,16.7,30.8s-8.8,30.8-16.7,30.8s-16.7-12.7-16.7-30.8
+		S150.5,69.2,158.4,69.2z"/>
+	<polygon class="st5" points="44,137.3 50.7,137.3 50.7,62.7 37.1,62.7 32.5,69.9 44,69.9 	"/>
+</g>
+</svg>
